@@ -10,4 +10,6 @@ GG 本人已经隐退，我在2018年更新了这个语录包，并将文件名�
 现将此项目放至 Github。  
 
 ## 贡献者
-交pr的人请自行添加。
+*交pr的人请自行添加
+
+[Stapx Steve](https://github.com/Stapxs)
